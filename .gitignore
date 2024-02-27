@@ -1,1 +1,3 @@
-/target
+# Ignore target folders
+/01.hello_world/target/
+/02.guessing_game/target/
