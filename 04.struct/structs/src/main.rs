@@ -56,6 +56,11 @@ fn main() {
         "The area2 of the rectangle is {} square pixels.",
         area3(&rect)
     );
+
+    println!(
+        "rect1 is {:?}",
+        rect
+    );
 }
 
 fn build_user(email: String, username: String) -> User {
@@ -78,6 +83,7 @@ fn area2(dimensions: (u32, u32)) -> u32 {
 }
 
 /* funcao para calcular a area3 - nova versao usando structs */
+#[derive(Debug)]
 struct  Rectangle {
     width: u32,
     height: u32
