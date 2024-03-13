@@ -1,0 +1,1 @@
+/home/guimarczewski/rust_overview/rust_overview/05.methods_sintax/methods_sintax/target/debug/methods_sintax: /home/guimarczewski/rust_overview/rust_overview/05.methods_sintax/methods_sintax/src/main.rs
